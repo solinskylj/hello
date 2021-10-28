@@ -14,4 +14,11 @@ public class Practice {
 
         System.out.println(Arrays.toString(grades));
     }
+
+    Practice x = new Practice(); //Creating an object from the OOP class
+    //x.tacos();
+
+    public void tacos() { //Creating a method
+        System.out.println("Hello there tacos!!!");
+    }
 }
